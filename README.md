@@ -7,7 +7,7 @@ I am a junior Web Developer, living in United Kingdom.
 
 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, Sql, CSS and JavaScript.
 
-
+Projects I worked on -
 OnYourBike : an Airbnb clone.
 Event-Buddy : A place to find company to attend events.
 
