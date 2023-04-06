@@ -5,7 +5,7 @@ Hi, I'm Simon 👋
 
 I am a junior Web Developer, living in United Kingdom.
 
-🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, Sql, CSS and JavaScript.
+🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, Sql, CSS and JavaScript after recently graduating from the Web Development bootcamp at Le Wagon. I am also adding to my skills by completing courses on Codecademy which I have Ruby & SQL certifications so far.
 
 Projects I worked on -
 OnYourBike : an Airbnb clone.
